@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "いつまでも",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-03-22T05:57:44.220751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "Crusher-P",
+      "has_synced": true,
+      "path": "select/01_いつまでも_Crusher-P.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_いつまでも_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/03_いつまでも_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Itsu made mo [いつまでも]",
+      "artist": "RIP SLYME",
+      "has_synced": true,
+      "path": "select/04_Itsu_made_mo_[いつまでも]_RIP_SLYME.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/05_いつまでも_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/06_いつまでも_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/07_いつまでも_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/08_いつまでも_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "Crusher",
+      "has_synced": true,
+      "path": "select/09_いつまでも_Crusher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いつまでも いつまでも",
+      "artist": "KG",
+      "has_synced": true,
+      "path": "select/10_いつまでも_いつまでも_KG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いつまでも - Itsumademo",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/11_いつまでも_-_Itsumademo_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "GREEEEN",
+      "has_synced": true,
+      "path": "select/12_いつまでも_GREEEEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "西村由紀江",
+      "has_synced": false,
+      "path": "select/13_いつまでも_西村由紀江.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "いつでも、いつまでも",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/14_いつでも、いつまでも_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "sound〜いつまでも これからも〜",
+      "artist": "Mayumi Gojo",
+      "has_synced": false,
+      "path": "select/15_sound〜いつまでも_これからも〜_Mayumi_Gojo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "いつまでも",
+      "artist": "BEGIN",
+      "has_synced": true,
+      "path": "select/16_いつまでも_BEGIN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "sound ～いつまでも これからも～",
+      "artist": "Mayumi Gojo",
+      "has_synced": false,
+      "path": "select/17_sound_~いつまでも_これからも~_Mayumi_Gojo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつまでも",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_いつまでも_GReeeeN.txt"
+    }
+  ]
+}
